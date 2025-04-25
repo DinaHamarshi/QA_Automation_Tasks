@@ -1,7 +1,7 @@
 # QA Automation Tasks
 
 This repository contains basic QA automation tests developed using Python, Selenium WebDriver, and Pytest.  
-The tests target the demo website [Magento](https://magento.softwaretestingboard.com/).
+The tests target the demo e-commerce website [Magento](https://magento.softwaretestingboard.com/).
 
 ## Tools and Technologies
 - Python
